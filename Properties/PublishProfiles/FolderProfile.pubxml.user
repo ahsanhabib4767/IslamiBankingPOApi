@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_PublishTargetUrl>F:\Asp_Core_Hosting\Published_app</_PublishTargetUrl>
+    <History>True|2022-02-20T08:20:25.4641860Z;True|2022-02-20T13:56:46.2576370+06:00;True|2022-01-20T11:46:05.5272076+06:00;True|2022-01-18T15:49:48.0038040+06:00;True|2022-01-13T10:32:54.7291862+06:00;True|2021-12-01T11:23:08.2261825+06:00;True|2021-12-01T10:59:46.0227396+06:00;True|2021-11-30T12:58:20.9344615+06:00;True|2021-11-25T13:31:30.3456877+06:00;True|2021-11-18T16:08:13.8624189+06:00;True|2021-11-18T15:15:05.2126872+06:00;</History>
+  </PropertyGroup>
+</Project>
